@@ -4,10 +4,11 @@ jwst-cosmic-conn
 
 
 
-Contains application of cosmic-conce Telescope
+Contains application of cosmic-conn on latest images from James Webb Space Telescope
 
 
 * Free software: MIT license
+* More on cosmic conn: https://github.com/cy-xu/cosmic-conn
 * Documentation: https://jwst-cosmic-conn.readthedocs.io.
 
 

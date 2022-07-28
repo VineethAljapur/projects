@@ -2,17 +2,6 @@ jwst-cosmic-conn
 ================
 
 
-.. image:: https://img.shields.io/pypi/v/jwst_cosmic_conn.svg
-        :target: https://pypi.python.org/pypi/jwst_cosmic_conn
-
-.. image:: https://img.shields.io/travis/VineethAljapur/jwst_cosmic_conn.svg
-        :target: https://travis-ci.com/VineethAljapur/jwst_cosmic_conn
-
-.. image:: https://readthedocs.org/projects/jwst-cosmic-conn/badge/?version=latest
-        :target: https://jwst-cosmic-conn.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
-
 
 
 Contains application of cosmic-conce Telescope
@@ -26,6 +15,17 @@ Features
 --------
 
 * TODO
+
+Installations:
+-------------
+
+Reccomended way to install packages is via Anaconda
+
+```
+conda env create -y env.yaml
+```
+
+Upon which you can activate the environment by running `conda activate jcc_env`
 
 Credits
 -------

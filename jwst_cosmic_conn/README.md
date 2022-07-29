@@ -20,7 +20,7 @@ Features
 Installations:
 -------------
 
-Reccomended way to install packages is via Anaconda
+Recommended way to install packages is via Anaconda
 
 ```
 conda env create -y env.yaml
